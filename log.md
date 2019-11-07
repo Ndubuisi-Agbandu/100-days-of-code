@@ -1,22 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: November 6, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Introduction to javascript, including variables, data types e.t.c.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The first day was interactive and fun though i was confused about this sign (%) because freecodecamp called it the remainder sign and said it is wrong to call it the modulus sign while w3schools referred to it as the modulus sign.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: November 7, 2019
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Learnt about strings, its immutability, the length property and bracket notation. I also completed the word blank task.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I struggled a little with the escaping characters, but i smashed at last.
 
 
 ### Day 1: June 27, Monday
