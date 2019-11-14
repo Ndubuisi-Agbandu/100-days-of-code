@@ -19,3 +19,7 @@ I also learnt about functions: its definition, parameters, scope, e.t.c.
 i completed the shopping list and stand in line tasks.
 
 **Thoughts**: It was fun but i needed to make personal research on how to remove an element from in between an array using splice(). Also i needed to assimilate the push, pop, shift and unshift properties.
+
+### Day 4: November 9, 2019
+
+**Today's Progress**: I was stucked for over a week, there was no place to get answers to my question i got tired and frustrated.
