@@ -22,4 +22,9 @@ i completed the shopping list and stand in line tasks.
 
 ### Day 4: November 9, 2019
 
-**Today's Progress**: I was stucked for over a week, there was no place to get answers to my question i got tired and frustrated.
+**Today's Progress**: I was stucked for over a week, there was no place to get answers to my question i got tired and frustrated. While making my research i stumbled upon a similar challenge and its solution on git hub on the 20/11/2019.
+The counting card challenge was a punch to my face.
+
+### DAY 5: November 21, 2019
+
+**Today's Progress**:
