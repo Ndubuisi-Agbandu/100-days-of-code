@@ -27,4 +27,4 @@ The counting card challenge was a punch to my face.
 
 ### DAY 5: November 21, 2019
 
-**Today's Progress**:
+**Today's Progress**: After being stucked for over a week, i stopped updating this log but still continued coding. One thing i did for sure was to push my code for every freecodecamp challenge.
